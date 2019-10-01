@@ -11,7 +11,7 @@
 wfLoadExtension( 'PiniLnx' );
 ```
 
-2. extensions 폴더에 모든 내용을 통째로 업로드합니다.
+2. extensions 폴더에 PiniLnx 폴더를 생성하고 모든 파일을 통째로 업로드합니다.
 3. 끝
 
 ## 지원버전
